@@ -1,4 +1,4 @@
-package com.westmister.ac.uk.demo;
+package productapi;
 
 import org.springframework.web.bind.annotation.*;
 

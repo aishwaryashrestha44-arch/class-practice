@@ -1,4 +1,4 @@
-package com.westmister.ac.uk.demo;
+package productapi;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 

@@ -1,4 +1,4 @@
-package com.westmister.ac.uk.demo;
+package productapi;
 
 import java.time.LocalDate;
 import java.time.Period;

@@ -1,4 +1,4 @@
-package com.westmister.ac.uk.demo;
+package productapi;
 
 public class DigitalProduct extends Product {
     private String downloadUrl;

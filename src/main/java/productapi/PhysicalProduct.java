@@ -1,4 +1,4 @@
-package com.westmister.ac.uk.demo;
+package productapi;
 
 public class PhysicalProduct extends Product {
     private double weightKg;
