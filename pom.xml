@@ -8,7 +8,11 @@
 		<version>4.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<<<<<<< HEAD
 	<groupId>com.westmister.ac.uk</groupId>
+=======
+	<groupId>com.example.westminster</groupId>
+>>>>>>> 7d30b2ccf14d661e71d8e44e9023a2541847cdf8
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>

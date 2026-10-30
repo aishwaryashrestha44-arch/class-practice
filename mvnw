@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ``````````````````````````11111111111111111111#!/bin/sh
+=======
+#!/bin/sh
+>>>>>>> 7d30b2ccf14d661e71d8e44e9023a2541847cdf8
 # ----------------------------------------------------------------------------
 # Licensed to the Apache Software Foundation (ASF) under one
 # or more contributor license agreements.  See the NOTICE file
